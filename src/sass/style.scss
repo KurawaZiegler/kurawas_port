@@ -1,0 +1,13 @@
+//libs
+@use "/src/sass/libs/modern-normalize.min.css";
+
+//base
+@use "/src/sass/base/variables.scss";
+@use "/src/sass/base/basic_style.scss";
+
+//ui
+@use "/src/sass/ui/title";
+
+//blocks
+//port
+@use "/src/sass/blocks/port.scss";
